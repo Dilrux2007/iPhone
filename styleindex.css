@@ -1,0 +1,176 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Readex Pro', sans-serif;
+}
+
+nav{
+    padding-top: 30px;
+}
+
+.logotext {
+    font-size:25px;
+    color: black;
+    font-weight: 900;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
+
+.list .list_item {
+    padding-left: 20px;
+}
+
+.list .list_item a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.icon{
+    text-align: end;
+}
+
+.caruselheader{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    margin-left: 120px;
+}
+
+.textInfo{
+    padding-top: 70px;
+}
+
+.leramText{
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #000000;
+}
+
+.cardfather{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+}
+
+.btnprew{
+    width: 40px;
+    height: 40px;
+    margin-top: 150px;
+    background: gray;
+    border-radius: 50%;
+}
+
+.btnnext{
+    width: 40px;
+    height: 40px;
+    margin-top: 150px;
+    background: gray;
+    border-radius: 50%;
+}
+
+.card{
+    border: none;
+}
+
+.card-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4B4B;
+}
+
+.cardlar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.magazin{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.explor{
+    padding: 14px 63px 14px 63px;
+    border-radius: 30px;
+}
+
+
+
+.cardtwo{
+    background: #F8F9FA;    
+    border-radius: 16px;
+}
+
+.cardwatch{
+    text-align: center;
+}
+
+.cardimg{
+    margin-top: 110px;
+}
+
+.cardimgone{
+    margin-top: 48px;
+}
+
+.textInfo{
+    margin-bottom: 26px;
+}
+
+.text{
+    font-family: 'B612 Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    margin-bottom: 28px;
+}
+
+.textone{
+    font-family: 'B612 Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    margin-top: 14px;
+    margin-bottom: 28px;
+}
+
+.input{
+    padding: 21px 476px 22px 67px;
+    border-radius: 100px;
+}
+
+.otainput{
+    position: relative;
+}
+
+.search{
+    position: absolute;
+    left: 210px;
+    top: 27px;
+}
+
+.btniphone{
+    padding: 12px 22px 13px 22px;
+    border: 2px solid #C5C5C5;
+}
